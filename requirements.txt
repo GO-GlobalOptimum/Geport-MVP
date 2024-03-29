@@ -6,3 +6,5 @@ langchain_community
 langchain_openai
 matplotlib
 python-dotenv
+bs4
+faiss-cpu
